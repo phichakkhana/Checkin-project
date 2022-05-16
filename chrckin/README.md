@@ -1,4 +1,4 @@
-# chrckin
+# checkin
 
 A new Flutter project.
 

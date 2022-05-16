@@ -51,8 +51,8 @@ dev_dependencies:
     sdk: flutter
   flutter_launcher_icons: ^0.9.2
 
-flutter_icon:
-  android: "launcher_icon"
+flutter_icons:
+  android: true
   ios: true
   image_path: "assets/Checkinlogo.png"
 
